@@ -1,0 +1,2 @@
+D:\Repositories\TeachTim\TeachTim\bin\Debug\TeachTim.exe.config
+D:\Repositories\TeachTim\SergeyProject\bin\Debug\TeachTim.exe.config
