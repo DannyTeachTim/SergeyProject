@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace TeachTim
 {
-    class Program
+    class InitProgram
     {
         static void Main(string[] args)
         {
+            Start.StartProgram program = new Start.StartProgram();
+            program.Start();
         }
     }
 }
